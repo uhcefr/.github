@@ -36,4 +36,4 @@ Meta data : [.github](https://github.com/uhcefr/.github)
   
 # Externe
 CMS : @[Azuriom](https://github.com/Azuriom) | [Repo externe](https://github.com/Azuriom/Azuriom)  
-Github Chat : @[Giscus](https://github.com/Giscus)| [Repo externe](https://github.com/Giscus/Giscus)  
+Github Chat : @[Giscus](https://github.com/Giscus) | [Repo externe](https://github.com/Giscus/Giscus)  
