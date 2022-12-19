@@ -3,7 +3,7 @@
   
 [Organization discussions](https://github.com/orgs/uhcefr/discussions)  
 [Tableaux](https://github.com/orgs/uhcefr/projects)  
-[Issues](https://github.com/uhcefr/.github/issues)
+[Issues](https://github.com/uhcefr/.github/issues) | [Créer issue](https://github.com/uhcefr/.github/issues/new/choose)
   
 [.github](https://github.com/uhcefr/.github)  
 [Support](https://github.com/uhcefr/.github/blob/main/SUPPORT.md) | [Contribution](https://github.com/uhcefr/.github/blob/main/CONTRIBUTING.md) | [Sécurité](https://github.com/uhcefr/.github/blob/main/SECURITY.md) | [Issue template](https://github.com/uhcefr/.github/tree/main/.github/ISSUE_TEMPLATE)  
