@@ -6,6 +6,8 @@
 **Tableaux** : [Liste](https://github.com/orgs/uhcefr/projects) | [Projets](https://github.com/orgs/uhcefr/projects/1/views/1) | [Backlog](https://github.com/orgs/uhcefr/projects/5)  
   
 # Repo
+CMS : [Page](https://uhce.fr) | @Azuriom | [Repo externe](https://github.com/Azuriom/Azuriom) | [Organisation externe](https://github.com/Azuriom)  
+**Site** : [Repo](https://github.com/uhcefr/uhcefr.github.io) | [Page](https://uhcefr.github.io)  
 **Docs** : [Repo](https://github.com/uhcefr/docs) | [Page](https://uhcefr.github.io/docs/) | [Tableau](https://github.com/orgs/uhcefr/projects/4)  
 **Discord** : [Repo](https://github.com/uhcefr/bot) | [Tableau](https://github.com/orgs/uhcefr/projects/2)  
 **Plugin** : [Repo](https://github.com/uhcefr/plugin) | [Tableau](https://github.com/orgs/uhcefr/projects/3)  
