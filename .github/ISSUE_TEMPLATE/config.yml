@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord
+    url: https://uhce.fr/discord/
+    about: Posez vos questions ici
+  - name: Docs
+    url: https://uhcefr.github.io/docs/
+    about: Documentation
