@@ -2,7 +2,7 @@
 # UHCE.fr
 <a href="https://uhce.fr"><img src="https://uhce.fr/storage/img/logo.png" width=100 height=100></a>  
 [uhce.fr](https://uhce.fr) | [/discord](https://uhce.fr/discord)  
-[uhcefr.github.io](https://uhcefr.github.io) | [/docs](https://uhcefr.github.io/docs)  
+[uhcefr.github.io](https://uhcefr.github.io)  
 [github.com/uhcefr](https://github.com/uhcefr)  
   
 ![](https://img.shields.io/github/commit-activity/m/uhcefr/.github?color=red&style=for-the-badge)
