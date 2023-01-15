@@ -13,7 +13,7 @@
 ![](https://img.shields.io/github/languages/code-size/uhcefr/.github?color=red)
 ![](https://img.shields.io/github/repo-size/uhcefr/.github?color=red)  
 ![](https://komarev.com/ghpvc/?username=uhcefr&color=red&label=%F0%9F%91%80)
-<a href="https://discord.gg/ssC6KYMjZz"><img src="https://discordapp.com/api/guilds/1015687367102836869/widget.png"></a>  
+<a href="https://uhce.fr/discord"><img src="https://discordapp.com/api/guilds/1015687367102836869/widget.png"></a>  
   
 ----
   
