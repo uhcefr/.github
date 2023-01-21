@@ -1,2 +1,2 @@
 # Guide de contribution  
-(Bientôt)
+[uhcefr.github.io / contribuer](https://uhcefr.github.io/pages/views/opensource/contribuer.html)
